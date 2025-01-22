@@ -71,7 +71,8 @@ This repository contains the code for a University Management System built using
    |── schema
    └── README.md
 
-  ![Image](https://github.com/user-attachments/assets/00a6bdbc-df9f-42d5-ad4a-ed4759466e67)
+
+Presentation file --> [guvi.pdf](https://github.com/user-attachments/files/18507944/guvi.pdf)
 
 ![Image](https://github.com/user-attachments/assets/5674f63b-f38f-42eb-b082-87acbcb7bb78)  
 
